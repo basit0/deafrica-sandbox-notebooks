@@ -1,0 +1,188 @@
+sending incremental file list
+.idea/.gitignore
+.idea/deafrica-sandbox-notebooks.iml
+Beginners_guide/01_Jupyter_notebooks.ipynb
+Beginners_guide/02_Products_and_measurements.ipynb
+Beginners_guide/03_Loading_data.ipynb
+Beginners_guide/04_Plotting.ipynb
+Beginners_guide/05_Basic_analysis.ipynb
+Beginners_guide/06_Intro_to_numpy.ipynb
+Beginners_guide/07_Intro_to_xarray.ipynb
+Beginners_guide/08_Parallel_processing_with_dask.ipynb
+Beginners_guide/README.md
+Datasets/ALOS_PALSAR_Annual_Mosaic.ipynb
+Datasets/Climate_Data_ERA5_AWS.ipynb
+Datasets/Fractional_Cover.ipynb
+Datasets/GeoMAD.ipynb
+Datasets/Landsat_Surface_Reflectance.ipynb
+Datasets/Landsat_Surface_Temperature.ipynb
+Datasets/README.md
+Datasets/Sentinel_1.ipynb
+Datasets/Sentinel_2.ipynb
+Datasets/Soil_Moisture.ipynb
+Datasets/Water_Observations_from_Space.ipynb
+Frequently_used_code/Analyse_multiple_polygons.ipynb
+Frequently_used_code/Animated_timeseries.ipynb
+Frequently_used_code/Applying_WOfS_bitmasking.ipynb
+Frequently_used_code/Calculating_band_indices.ipynb
+Frequently_used_code/Cloud_and_pixel_quality_masking.ipynb
+Frequently_used_code/Contour_extraction.ipynb
+Frequently_used_code/Exporting_GeoTIFFs.ipynb
+Frequently_used_code/Generating_composites.ipynb
+Frequently_used_code/Generating_geomedian_composites.ipynb
+Frequently_used_code/Image_segmentation.ipynb
+Frequently_used_code/Imagery_on_web_map.ipynb
+Frequently_used_code/Integrating_external_data.ipynb
+Frequently_used_code/Monitoring_water_quality.ipynb
+Frequently_used_code/Principal_component_analysis.ipynb
+Frequently_used_code/README.md
+Frequently_used_code/Rasterise_vectorise.ipynb
+Frequently_used_code/Reprojecting_data.ipynb
+Frequently_used_code/Tidal_modelling.ipynb
+Frequently_used_code/Using_load_ard.ipynb
+Frequently_used_code/Working_with_time.ipynb
+Real_world_examples/Burnt_area_mapping.ipynb
+Real_world_examples/Change_filmstrips.ipynb
+Real_world_examples/Chlorophyll_monitoring.ipynb
+Real_world_examples/Coastal_erosion.ipynb
+Real_world_examples/Crop_health.ipynb
+Real_world_examples/Intertidal_elevation.ipynb
+Real_world_examples/Machine_learning_with_ODC.ipynb
+Real_world_examples/Mangrove_analysis.ipynb
+Real_world_examples/Phenology_optical.ipynb
+Real_world_examples/Phenology_radar.ipynb
+Real_world_examples/README.md
+Real_world_examples/Radar_water_detection.ipynb
+Real_world_examples/Ship_detection_with_radar.ipynb
+Real_world_examples/Urban_change_detection.ipynb
+Real_world_examples/Urban_index_comparison.ipynb
+Real_world_examples/Vegetation_anomalies_monthly.ipynb
+Real_world_examples/Vegetation_anomalies_seasonal.ipynb
+Real_world_examples/Vegetation_change_detection.ipynb
+Real_world_examples/Water_extent_WOfS.ipynb
+Real_world_examples/Water_extent_sentinel_2.ipynb
+Real_world_examples/Scalable_machine_learning/0_README.ipynb
+Real_world_examples/Scalable_machine_learning/1_Extract_training_data.ipynb
+Real_world_examples/Scalable_machine_learning/2_Inspect_training_data.ipynb
+Real_world_examples/Scalable_machine_learning/3_Evaluate_optimize_fit_classifier.ipynb
+Real_world_examples/Scalable_machine_learning/4_Classify_satellite_data.ipynb
+Real_world_examples/Scalable_machine_learning/5_Object-based_filtering.ipynb
+Real_world_examples/Scalable_machine_learning/README.md
+Real_world_examples/Scalable_machine_learning/index.rst
+Real_world_examples/Scalable_machine_learning/data/crop_training_egypt.geojson
+Real_world_examples/Scalable_machine_learning/results/ml_model.joblib
+Real_world_examples/Scalable_machine_learning/results/training_data/test_training_data.txt
+Real_world_examples/Scalable_machine_learning/results/training_data/training_data_coordinates.txt
+Scripts/README.md
+Scripts/notebookapp_changefilmstrips.py
+Scripts/notebookapp_crophealth.py
+Supplementary_data/DE_Africa_Logo_Stacked_RGB_small.jpg
+Supplementary_data/Github_banner.jpg
+Supplementary_data/README.md
+Supplementary_data/05_Basic_analysis/latlong_buffer.png
+Supplementary_data/06_Intro_to_numpy/africa.png
+Supplementary_data/06_Intro_to_numpy/numpy_array_t.png
+Supplementary_data/07_Intro_to_xarray/dataset-diagram.png
+Supplementary_data/07_Intro_to_xarray/example_netcdf.nc
+Supplementary_data/08_parallel_processing_with_dask/dask.png
+Supplementary_data/08_parallel_processing_with_dask/dask_url_filled.png
+Supplementary_data/Analyse_multiple_polygons/multiple_polygons.cpg
+Supplementary_data/Analyse_multiple_polygons/multiple_polygons.dbf
+Supplementary_data/Analyse_multiple_polygons/multiple_polygons.prj
+Supplementary_data/Analyse_multiple_polygons/multiple_polygons.sbn
+Supplementary_data/Analyse_multiple_polygons/multiple_polygons.sbx
+Supplementary_data/Analyse_multiple_polygons/multiple_polygons.shp
+Supplementary_data/Analyse_multiple_polygons/multiple_polygons.shx
+Supplementary_data/Animated_timeseries/example_polygon.cpg
+Supplementary_data/Animated_timeseries/example_polygon.dbf
+Supplementary_data/Animated_timeseries/example_polygon.prj
+Supplementary_data/Animated_timeseries/example_polygon.shp
+Supplementary_data/Animated_timeseries/example_polygon.shx
+Supplementary_data/Burnt_area_mapping/fire_hotspots.zip
+Supplementary_data/Change_filmstrips/filmstrip_example.png
+Supplementary_data/Change_filmstrips/rectangle_draw.png
+Supplementary_data/Fractional_cover/fc_legend.jpg
+Supplementary_data/Integrating_external_data/msasani_bay_-6.749102_39.261819_2014-2018_tides.csv
+Supplementary_data/Machine_learning_with_ODC/kampala_urban_labels.cpg
+Supplementary_data/Machine_learning_with_ODC/kampala_urban_labels.dbf
+Supplementary_data/Machine_learning_with_ODC/kampala_urban_labels.prj
+Supplementary_data/Machine_learning_with_ODC/kampala_urban_labels.shp
+Supplementary_data/Machine_learning_with_ODC/kampala_urban_labels.shx
+Supplementary_data/Mangroves_analysis/Guniea_Bissau_GMW_2010.CPG
+Supplementary_data/Mangroves_analysis/Guniea_Bissau_GMW_2010.dbf
+Supplementary_data/Mangroves_analysis/Guniea_Bissau_GMW_2010.prj
+Supplementary_data/Mangroves_analysis/Guniea_Bissau_GMW_2010.sbn
+Supplementary_data/Mangroves_analysis/Guniea_Bissau_GMW_2010.sbx
+Supplementary_data/Mangroves_analysis/Guniea_Bissau_GMW_2010.shp
+Supplementary_data/Mangroves_analysis/Guniea_Bissau_GMW_2010.shx
+Supplementary_data/Mangroves_analysis/mangrove_decision_tree.png
+Supplementary_data/Reprojecting_data/madagascar_CHPclim_02.tif
+Supplementary_data/Scalable_machine_learning/classifier_pro_cons.png
+Supplementary_data/Scalable_machine_learning/nested_CV.png
+Supplementary_data/Scalable_machine_learning/tilingApproach.png
+Supplementary_data/Sentinel_1/S1Modes.jpg
+Supplementary_data/Urban_index_comparison/GHS_BUILT_LDSMT_GLOBE_R2018A_3857_30_V2_0_12_10.tif
+Tools/.gitignore
+Tools/.pre-commit-config.yaml
+Tools/LICENSE
+Tools/README.md
+Tools/poetry.lock
+Tools/pyproject.toml
+Tools/setup.py
+Tools/deafrica_tools/__init__.py
+Tools/deafrica_tools/bandindices.py
+Tools/deafrica_tools/classification.py
+Tools/deafrica_tools/coastal.py
+Tools/deafrica_tools/dask.py
+Tools/deafrica_tools/datahandling.py
+Tools/deafrica_tools/load_era5.py
+Tools/deafrica_tools/plotting.py
+Tools/deafrica_tools/spatial.py
+Tools/deafrica_tools/temporal.py
+Use_cases/README.md
+Use_cases/Lake_baringo_grazing/Vegetation_phenology_1D.ipynb
+Use_cases/Lake_baringo_grazing/Vegetation_phenology_perpixel.ipynb
+Use_cases/Lake_baringo_grazing/Water_extent.ipynb
+Use_cases/Lake_baringo_grazing/data/Ruko_conservancy.geojson
+Use_cases/Lake_baringo_grazing/results/2017_phenology.csv
+Use_cases/Lake_baringo_grazing/results/2018_phenology.csv
+Use_cases/Lake_baringo_grazing/results/2019_phenology.csv
+Use_cases/Lake_baringo_grazing/results/2020_phenology.csv
+Use_cases/Lake_baringo_grazing/results/phenology_2D_2018.png
+Use_cases/Lake_baringo_grazing/results/water_extent.gif
+Use_cases/Lake_baringo_grazing/results/yearly_phenology_plot.png
+Use_cases/Surface_mining_screening/Surface_mining_screening.ipynb
+Use_cases/Surface_mining_screening/Surface_mining_screening.py
+Use_cases/Surface_mining_screening/data/Apam_forest.cpg
+Use_cases/Surface_mining_screening/data/Apam_forest.dbf
+Use_cases/Surface_mining_screening/data/Apam_forest.prj
+Use_cases/Surface_mining_screening/data/Apam_forest.shp
+Use_cases/Surface_mining_screening/data/Apam_forest.shx
+Use_cases/Surface_mining_screening/results/Possible_Mining.png
+
+sent 216,930,206 bytes  received 3,204 bytes  144,622,273.33 bytes/sec
+total size is 216,863,946  speedup is 1.00
+Obtaining file:///home/jovyan/Tools
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+    Preparing wheel metadata: started
+    Preparing wheel metadata: finished with status 'done'
+Installing collected packages: deafrica-tools
+  Running setup.py develop for deafrica-tools
+Successfully installed deafrica-tools-0.1.0
+'/env/share/jupyter/lab/static/vendors~main.e87ad4d296c016b56537.js' -> '/env/share/jupyter/lab/static/vendors~main.js'
+'/env/share/jupyter/lab/static/main.e268fa3c9734eb1021b2.js' -> '/env/share/jupyter/lab/static/main.js'
+--2021-09-28 11:40:23--  https://raw.githubusercontent.com/GeoscienceAustralia/dea-sandbox-templates/master/userpod/index.html
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.110.133, 185.199.109.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7629 (7.5K) [text/plain]
+Saving to: ‘/env/share/jupyter/lab/static/index.html’
+
+     0K .......                                               100% 89.2M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2021-09-28 11:40:24 (89.2 MB/s) - ‘/env/share/jupyter/lab/static/index.html’ saved [7629/7629]
+
